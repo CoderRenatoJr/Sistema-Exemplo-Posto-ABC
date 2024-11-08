@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/09 15:44:22.000.369,=C:\Users\Renato Jr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/09 15:44:57.000.265,C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\Funcoes\PostoABC.Model.Funcoes.Gerais.Tests.pas=C:\Users\Renato Jr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/09 15:45:14.000.423,C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\PostABCTests.dproj=C:\Users\Renato Jr\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/11/09 15:46:51.000.404,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\Funcoes\PostoABC.Model.Funcoes.Gerais.pas</Transaction>
+    <Transaction>2024/11/09 15:46:51.000.425,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\Funcoes\PostoABC.Model.Funcoes.Interfaces.pas</Transaction>
+    <Transaction>2024/11/09 15:55:38.000.613,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\Connection\PostoABC.Model.Connection.Factory.pas</Transaction>
+    <Transaction>2024/11/09 15:55:38.000.637,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\Connection\PostoABC.Model.Connection.Interfaces.pas</Transaction>
+    <Transaction>2024/11/09 15:55:47.000.827,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\Connection\FireDAC\PostoABC.Model.Connection.FireDAC.Connection.pas</Transaction>
+    <Transaction>2024/11/09 15:55:47.000.852,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\Connection\FireDAC\PostoABC.Model.Connection.FireDAC.Query.pas</Transaction>
+    <Transaction>2024/11/09 15:55:57.000.536,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\DAO\PostoABC.Model.DAO.pas</Transaction>
+    <Transaction>2024/11/09 15:55:57.000.472,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\DAO\PostoABC.Model.DAO.Factory.pas</Transaction>
+    <Transaction>2024/11/09 15:55:57.000.498,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\DAO\PostoABC.Model.DAO.Interfaces.pas</Transaction>
+    <Transaction>2024/11/09 15:56:05.000.845,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\Entity\Lancamento\PostoABC.Model.Entity.Lancamento.Abastecimento.pas</Transaction>
+    <Transaction>2024/11/09 15:56:13.000.973,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\Ini\PostoABC.Model.Ini.Interfaces.pas</Transaction>
+    <Transaction>2024/11/09 15:56:14.000.047,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\Ini\PostoABC.Model.Ini.pas</Transaction>
+    <Transaction>2024/11/09 15:56:22.000.561,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\ORM\PostoABC.Model.ORM.Generators.pas</Transaction>
+    <Transaction>2024/11/09 15:56:22.000.533,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\ORM\PostoABC.Model.ORM.DataSetBind.pas</Transaction>
+    <Transaction>2024/11/09 15:56:22.000.514,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\ORM\PostoABC.Model.ORM.Attributes.pas</Transaction>
+    <Transaction>2024/11/09 15:56:30.000.739,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\Services\PostoABC.Model.Services.Interfaces.pas</Transaction>
+    <Transaction>2024/11/09 15:56:30.000.759,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\Services\PostoABC.Model.Services.Lancamento.Abastecimento.pas</Transaction>
+    <Transaction>2024/11/09 15:56:42.000.436,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\Exceptions\PostoABC.Model.Exceptions.Types.pas</Transaction>
+    <Transaction>2024/11/09 16:11:18.323,=C:\Dados\Programacao\Sistema-Exemplo-Posto-ABC\Fontes\src\Model\Services\PostoABC.Model.Services.Lancamento.Abastecimento.Tests.pas</Transaction>
+  </Transactions>
+</BorlandProject>
