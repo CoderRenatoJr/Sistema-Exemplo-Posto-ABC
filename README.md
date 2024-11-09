@@ -28,3 +28,4 @@
 
 ## Observações Adicionais
 - Esse projeto foi desenvolvido na versão 12 do Delphi Community Edition, por isso utiliza alguns recursos disponíveis apenas a partir dessa versão.
+- Ao compilar o projeto, o executável será criado em uma pasta anterior, no mesmo nível da pasta **Fonte**.
